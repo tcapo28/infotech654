@@ -1,0 +1,15 @@
+#header {
+  width: 100%; background-color: gold; text-align: center; border-radius: 10px; padding-bottom: 50px; padding-top: 50px;
+}
+#films {
+  border-collapse: collapse;
+  width: 75%;
+  float: right;
+}
+#films td, #films th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  background-color: #f2f2f2;
+}
+
+
